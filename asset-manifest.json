@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ketesarinkhunram-portfolio/static/css/main.5a8f5776.css",
+    "main.js": "/ketesarinkhunram-portfolio/static/js/main.594e331f.js",
+    "static/media/countdown-new-year.png": "/ketesarinkhunram-portfolio/static/media/countdown-new-year.daf16ca22250488f7136.png",
+    "static/media/voice-images.png": "/ketesarinkhunram-portfolio/static/media/voice-images.9371846a5bc0d230e7b1.png",
+    "static/media/sb-blog-programming.png": "/ketesarinkhunram-portfolio/static/media/sb-blog-programming.2068ba82dfd096fb7d51.png",
+    "static/media/air-quality-visualizer.png": "/ketesarinkhunram-portfolio/static/media/air-quality-visualizer.e0b4d2e4f8adab5f0521.png",
+    "static/media/to-do-list.png": "/ketesarinkhunram-portfolio/static/media/to-do-list.12c0ba166fca6e3aa088.png",
+    "static/media/resume.pdf": "/ketesarinkhunram-portfolio/static/media/resume.efae96f470d688c15a63.pdf",
+    "static/media/joy2.png": "/ketesarinkhunram-portfolio/static/media/joy2.12212c55fa4f17dc92f3.png",
+    "static/media/text-to-speech.png": "/ketesarinkhunram-portfolio/static/media/text-to-speech.0c4a59febc4eaaf2d83f.png",
+    "index.html": "/ketesarinkhunram-portfolio/index.html",
+    "main.5a8f5776.css.map": "/ketesarinkhunram-portfolio/static/css/main.5a8f5776.css.map",
+    "main.594e331f.js.map": "/ketesarinkhunram-portfolio/static/js/main.594e331f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a8f5776.css",
+    "static/js/main.594e331f.js"
+  ]
+}
